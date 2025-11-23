@@ -1,0 +1,14 @@
+[
+    {"id": 1, "username": "Mary", "role": "admin"},
+    {"id": 2, "username": "Valery", "role": "guest"},
+    {"id": 3, "username": "Kate", "role": "editor"},
+    {"id": 4, "username": "Alex", "role": "viewer"},
+    {"id": 5, "username": "Max", "role": "editor"},
+    {"id": 6, "username": "Dima", "role": "viewer"},
+    {"id": 7, "username": "John", "role": "guest"},
+    {"id": 8, "username": "Gleb", "role": "viewer"},
+    {"id": 9, "username": "Sergey", "role": "viewer"},
+    {"id": 10, "username": "Kolyia", "role": "viewer"},
+    {"id": 11, "username": "Vasiliy", "role": "editor"},
+    {"id": 12, "username": "Nataly", "role": "guest"}
+]
