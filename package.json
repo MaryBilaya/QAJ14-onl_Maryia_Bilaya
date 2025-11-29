@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha --config ./config/.mocharc",
+    "test": "mocha --config ./config/.mocharc.json",
     "jest": "npx jest --config ./config/jest.config.js",
     "api": "npx jest --config ./config/api.config.js",
     "pret": "npx prettier --write ."
