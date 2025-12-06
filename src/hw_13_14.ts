@@ -118,7 +118,7 @@ diceRoll(2);
 // добавить еще какие-то методы на выбор (эта задача нам пригодится впоследствии)
 console.log(pattern2.repeat(23) + 'Task 2.' + pattern2.repeat(23));
 
-class Calculator {
+export class Calculator {
   addition(...args: number[]) {
     return args.reduce((accum, value) => accum + value, 0);
   }

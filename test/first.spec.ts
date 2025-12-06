@@ -1,18 +1,18 @@
-import assert from "assert"
-import {expect} from "chai"
+// import assert from "assert"
+// import {expect} from "chai"
 
-describe("Test name", () => {
-    it("first step", () => {
-        console.log("abc")
-    })
+// describe("Test name", () => {
+//     it("first step", () => {
+//         console.log("abc")
+//     })
 
-    it("second step", () => {
-        throw Error("failed")
-    })
-})
+//     it("second step", () => {
+//         throw Error("failed")
+//     })
+// })
 
-const a = 7;
-const b = 6;
+// const a = 7;
+// const b = 6;
 
 // describe("Second name", () => [
 //     it("second step", () => {

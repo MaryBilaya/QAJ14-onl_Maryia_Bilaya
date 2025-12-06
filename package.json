@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha --config ./config/.mocharc.json",
+    "test": "mocha --config ./config/mocharc.json",
     "jest": "npx jest --config ./config/jest.config.js",
     "api": "npx jest --config ./config/api.config.js",
     "pret": "npx prettier --write ."
@@ -35,10 +35,5 @@
     "ts-node": "^10.9.2",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
-  },
-  "dependencies": {
-    "@types/jest": "^30.0.0",
-    "jest": "^30.2.0",
-    "ts-jest": "^29.4.5"
   }
 }
